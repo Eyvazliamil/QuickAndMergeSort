@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MergeSort/MergeSort.csproj" />
+  <Project Path="QuickAndMergeSort/QuickAndMergeSort.csproj" />
+  <Project Path="QuickSort/QuickSort.csproj" />
+</Solution>
